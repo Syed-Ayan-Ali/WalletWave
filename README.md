@@ -1,6 +1,6 @@
 ![DOT UI Kit](/public/frontend-kit-challenge.webp)
 
-# DOT UI Kit
+# WalletWave UI Kit
 
 An open-source, up-to-date, opinionated UI scaffolding kit for the Polkadot ecosystem (starting with Asset Hub). The technical stack is:
 - [Next.js](https://nextjs.org/)
